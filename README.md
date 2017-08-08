@@ -8,7 +8,7 @@
 	    <li><p>任务1：用纯css/div实现下图的效果。</p></li>
 	    <img src="task1.png"/>
         <li><p>任务2：使用标准css或者Bootstrap等框架实现下图的效果。</p></li>
-	     <img src="task1.gif"/>
+	     <img src="task2.gif"/>
     </ul>
 </div>
 <hr/>
