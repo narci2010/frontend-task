@@ -19,7 +19,7 @@
 	     <img src="task5.png"/><br>
 	      <img src="task6.png"/><br>
 	    <li><p>任务6（中、高级）：内容同任务5，进一步要求如下</p></li>
-       &nbsp;&nbsp;1、网页中数据使用vue、angular2、react中任选一个MVVM框架加载，数据自己模拟，如果会使用mock技术加分。<br>
+       &nbsp;&nbsp;&nbsp;1、网页中数据使用vue、angular2、react中任选一个MVVM框架加载，数据自己模拟，如果会使用mock技术加分。<br>
 	    2、如果将数据存放到服务器端，REST发布服务，在代码中说明vue、angular2、react如何解决跨域访问问题（加分）。<br>
 	    3、如果将数据存放到服务器端，REST发布服务，如果客户与服务器端要保留cookie通信，在代码中说明vue、angular2、react如何处理（加分）。<br>
 	     
